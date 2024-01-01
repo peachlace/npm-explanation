@@ -1,0 +1,23 @@
+{
+  "name": "npm-explanation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peachlace/npm-explanation.git"
+  },
+  "type": "module",
+  "author": "peachlace",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peachlace/npm-explanation/issues"
+  },
+  "homepage": "https://github.com/peachlace/npm-explanation#readme",
+  "dependencies": {
+    "chalk": "^5.3.0"
+  }
+}
