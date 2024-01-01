@@ -1,3 +1,5 @@
 import chalk from 'chalk';
+import ora from 'ora';
 
-console.log(chalk.rgb(123, 45, 67).underline('Hello, World!'))
+const spinner = ora(`Counting ${chalk.red('files')}`).start();
+
